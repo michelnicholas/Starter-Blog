@@ -1,4 +1,4 @@
-# Starter-Blog
+# Starter-Blog-Template
 
 ### This is a simple one page blog for your resume if needed
 
